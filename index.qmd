@@ -1,0 +1,22 @@
+---
+title: "SWAMP Bioassessment Reporting Module SOP"
+subtitle: "SWAMP Bioassessment Reporting Module Standard Operating Procedures (SOP) Documentation" 
+date: "August 2022"
+author: "Anna Holder (CA SWAMP)"
+citation_url: https://cawaterboarddatacenter.github.io/SWAMP-Bioassessment-Reporting-Module-SOP/
+slug: index
+---
+
+## Welcome
+
+## About SWAMP Bioassessment Reporting Module
+
+## About SWAMP Bioassessment Reporting Module SOP
+
+### Built with Quarto
+
+We're collaboratively making this SOP with [Quarto](https://quarto.org). Quarto builds from what RStudio learned from [RMarkdown](https://rmarkdown.rstudio.com/), which we are using to openly develop and publish all Reporting Module documentation.
+
+## Citation
+
+Please cite this guide as: TBD

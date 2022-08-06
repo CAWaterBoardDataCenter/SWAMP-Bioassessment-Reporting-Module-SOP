@@ -1,0 +1,13 @@
+---
+title: "Step 1: Filter Datasets"
+---
+
+In the first step, the user will define the overall scope of their needs and filter the available datasets according to the specified:
+
+-   Spatial extent - from which geographic location(s) would the user like to pull data? For example, would they like all statewide data, or would they like to filter by: ecoregion, water board region, county, or list of latitude and longitude(s) or site/Station Codes(s)?
+
+-   Temporal extent - from which time period(s) would the user like to pull data? For example, would they like a specific year or sampling season? Or a range of years or seasons?
+
+-   Program or Project - from which bioassessment program(s) or project(s) would the user like to pull data? For example, would they like data from all statewide and regional programs, the Perennial Streams Assessment (PSA), the Reference Condition Management Program (RCMP), the Southern California Stormwater Monitoring Coalition (SMC), or something else?
+
+-   Assemblage Type - for which assemblage(s) would the user like to calculate metrics? For example: algae, benthic macroinvertebrate (BMI), and/or habitat? Collection Method - from which collection method(s) would the user like to pull data? Note that this filter is primarily used for BMI the assemblage type.

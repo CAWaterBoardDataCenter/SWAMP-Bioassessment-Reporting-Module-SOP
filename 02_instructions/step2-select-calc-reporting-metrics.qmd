@@ -1,0 +1,11 @@
+---
+title: "Step 2: Select & Calculate Reporting Metrics"
+---
+
+In the second step, the user will select which reporting metrics they would like the Reporting Module to calculate for them. These metrics include:
+
+-   Base Queries (count or percents by taxon)
+
+-   Assemblage Statistics (count or percent by family, order or class \[e.g., order Ephemeroptera\] or functional group \[e.g., Shredders\])
+
+-   Other Metrics pertaining to tolerance, diversity, ecology, or life history traits

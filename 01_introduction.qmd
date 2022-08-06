@@ -1,0 +1,28 @@
+---
+title: "Introduction"
+---
+
+## Background
+
+The Surface Water Ambient Monitoring Program (SWAMP) is led by the Office of Information Management and Analysis at the California State Water Resources Control Board (State Water Board). One of the main priorities of the [SWAMP Strategic Action Plan](https://docs.google.com/document/d/1g08L8GUHdEMLCxNS1vppNEXobf4bYOmK/edit#heading=h.30j0zll) involves developing and sharing user-centered resources, training, and tools. The SWAMP [Bioassessment Monitoring Program (Program) Work Plan](https://docs.google.com/document/u/1/d/152qV19-wPhjWaDbsilc-Hlh5TLn8ypL86OU8TU01GJw/edit) identifies a strategic action (Action 3.5) to create and maintain a SWAMP Reporting Module R Shiny Application (Reporting Module). The long-term purpose of the Reporting Module will be to act as a central hub where all bioassessment information, resources, tools, and data can be easily accessed and reported to help improve querying, accessibility, communication, and use of the Program's data.
+
+## Reporting Module Objectives
+
+In the late 2000s, the California Department of Fish and Wildlife developed and managed a Reporting Module in the form of a Microsoft Access Database (version 1.0). Management of this resource was eventually transitioned to SWAMP and SWAMP Information Management and Quality Assurance Center (SWAMP IQ) where it was used by select Regional Boards and Program partners to query and analyze bioassessment data for the specific purpose of developing reports and building interpretive tools such as bioassessment indices. The ability for Regional Boards and Program partners to continue to use this resource was discontinued in 2017. Since then, there has been a need to revitalize and modernize the useful and relevant components of the historic resource and develop a new, more accessible, intuitive, and publicly facing Reporting Module.
+
+In 2018, the California State Water Resources Control Board adopted principles of open data and directed programs to strategically implement those principles into their activities ([Resolution 2018-0032](https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/2018/rs2018_0032.pdf)). In preparation for and response to this Resolution, SWAMP has dedicated resources to make its monitoring data open, accessible, and used. SWAMP has also embraced open science as a core value and will continue to prioritize and operationalize open data and open science principles through the development, implementation, and maintenance of this Reporting Module.
+
+The objectives of this modernized Reporting Module are to enable users to easily and intuitively:
+
+1.  Dynamically retrieve bioassessment data
+2.  Filter and aggregate bioassessment data
+3.  Export customized outputs
+4.  Learn about and understand the entire data process and workflow
+5.  Access all components of the Reporting Module through open and free software
+6.  Contribute to the development, maintenance, and enhancement of the Reporting Module
+
+## Audience
+
+The audience for which the Reporting Module is primarily intended includes aquatic bioassessment subject-matter experts and practitioners (i.e., those who regularly use or analyze SWAMP or aquatic bioassessment data in their work). Since the Reporting Module will be open and accessible to the public, documentation and communication resources will be developed to enable new bioassessment data users and practitioners to easily learn how to use the data and resource appropriately.
+
+There may be a need for some bioassessment data practitioners to use the Reporting Module workflow to process non-public bioassessment data or to develop other aggregations or metrics that are outside of the scope of the Reporting Module. SWAMP will make all workflows and code available through this GitHub Repository so any bioassessment data user with analytical needs that are outside the scope of the publicly facing Reporting Module will be able to download the Reporting Module's code and workflows and customize them in a way that satisfies their specific needs. SWAMP will work with select parties who need to connect securely to SWAMP bioassessment data held in State Water Board databases, as necessary and appropriate.

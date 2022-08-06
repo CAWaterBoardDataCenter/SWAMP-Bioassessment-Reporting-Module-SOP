@@ -1,0 +1,14 @@
+---
+title: "Workflow"
+---
+
+## Overview
+
+## Request Access
+To request access, you’ll need a GitHub username and to fill out this form **add link**
+
+## Connect RStudio to GitHub
+
+Follow [these instructions](https://happygitwithr.com/rstudio-git-github.html "Happy Git and GitHub for the useR Ch. 12: Connect RStudio to Git and GitHub")
+
+## Create a branch on GitHub
