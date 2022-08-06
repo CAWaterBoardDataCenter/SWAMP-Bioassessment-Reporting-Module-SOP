@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "01_introduction.html",
+    "href": "01_introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "The Surface Water Ambient Monitoring Program (SWAMP) is led by the Office of Information Management and Analysis at the California State Water Resources Control Board (State Water Board). One of the main priorities of the SWAMP Strategic Action Plan involves developing and sharing user-centered resources, training, and tools. The SWAMP Bioassessment Monitoring Program (Program) Work Plan identifies a strategic action (Action 3.5) to create and maintain a SWAMP Reporting Module R Shiny Application (Reporting Module). The long-term purpose of the Reporting Module will be to act as a central hub where all bioassessment information, resources, tools, and data can be easily accessed and reported to help improve querying, accessibility, communication, and use of the Program’s data."
+  },
+  {
+    "objectID": "01_introduction.html#reporting-module-objectives",
+    "href": "01_introduction.html#reporting-module-objectives",
+    "title": "Introduction",
+    "section": "Reporting Module Objectives",
+    "text": "Reporting Module Objectives\nIn the late 2000s, the California Department of Fish and Wildlife developed and managed a Reporting Module in the form of a Microsoft Access Database (version 1.0). Management of this resource was eventually transitioned to SWAMP and SWAMP Information Management and Quality Assurance Center (SWAMP IQ) where it was used by select Regional Boards and Program partners to query and analyze bioassessment data for the specific purpose of developing reports and building interpretive tools such as bioassessment indices. The ability for Regional Boards and Program partners to continue to use this resource was discontinued in 2017. Since then, there has been a need to revitalize and modernize the useful and relevant components of the historic resource and develop a new, more accessible, intuitive, and publicly facing Reporting Module.\nIn 2018, the California State Water Resources Control Board adopted principles of open data and directed programs to strategically implement those principles into their activities (Resolution 2018-0032). In preparation for and response to this Resolution, SWAMP has dedicated resources to make its monitoring data open, accessible, and used. SWAMP has also embraced open science as a core value and will continue to prioritize and operationalize open data and open science principles through the development, implementation, and maintenance of this Reporting Module.\nThe objectives of this modernized Reporting Module are to enable users to easily and intuitively:\n\nDynamically retrieve bioassessment data\nFilter and aggregate bioassessment data\nExport customized outputs\nLearn about and understand the entire data process and workflow\nAccess all components of the Reporting Module through open and free software\nContribute to the development, maintenance, and enhancement of the Reporting Module"
+  },
+  {
+    "objectID": "01_introduction.html#audience",
+    "href": "01_introduction.html#audience",
+    "title": "Introduction",
+    "section": "Audience",
+    "text": "Audience\nThe audience for which the Reporting Module is primarily intended includes aquatic bioassessment subject-matter experts and practitioners (i.e., those who regularly use or analyze SWAMP or aquatic bioassessment data in their work). Since the Reporting Module will be open and accessible to the public, documentation and communication resources will be developed to enable new bioassessment data users and practitioners to easily learn how to use the data and resource appropriately.\nThere may be a need for some bioassessment data practitioners to use the Reporting Module workflow to process non-public bioassessment data or to develop other aggregations or metrics that are outside of the scope of the Reporting Module. SWAMP will make all workflows and code available through this GitHub Repository so any bioassessment data user with analytical needs that are outside the scope of the publicly facing Reporting Module will be able to download the Reporting Module’s code and workflows and customize them in a way that satisfies their specific needs. SWAMP will work with select parties who need to connect securely to SWAMP bioassessment data held in State Water Board databases, as necessary and appropriate."
+  },
+  {
+    "objectID": "04_resources.html",
+    "href": "04_resources.html",
+    "title": "Additional Resources",
+    "section": "",
+    "text": "Written/printable resources"
+  },
+  {
+    "objectID": "04_resources.html#tutorials",
+    "href": "04_resources.html#tutorials",
+    "title": "Additional Resources",
+    "section": "Tutorials",
+    "text": "Tutorials\nRecorded trainings/webinars with complementary presentations/slide decks"
+  },
+  {
+    "objectID": "04_resources.html#other-useful-links",
+    "href": "04_resources.html#other-useful-links",
+    "title": "Additional Resources",
+    "section": "Other Useful Links",
+    "text": "Other Useful Links"
+  },
+  {
+    "objectID": "03_interpretation/interpretation.html",
+    "href": "03_interpretation/interpretation.html",
+    "title": "Output Interpretation",
+    "section": "",
+    "text": "Provide some guidance/resources to help users interpret output (links to metric docs)"
+  },
+  {
+    "objectID": "03_interpretation/index.html",
+    "href": "03_interpretation/index.html",
+    "title": "Output Interpretation & Use Cases",
+    "section": "",
+    "text": "Congratulations - You’ve got your outputs! …now what?!?!"
+  },
+  {
+    "objectID": "03_interpretation/use-cases-potential.html",
+    "href": "03_interpretation/use-cases-potential.html",
+    "title": "Use Cases - Potential",
+    "section": "",
+    "text": "Provide descroption of how practitioners could potentially use these data (Integrated Report, others?)"
+  },
+  {
+    "objectID": "03_interpretation/use-cases-current.html",
+    "href": "03_interpretation/use-cases-current.html",
+    "title": "Use Cases - Current",
+    "section": "",
+    "text": "Provide descroption of how practitioners currently use these data (e.g. CDFW, ABL, SWAMP - CSCI, ASCI development, permit reporting)"
+  },
+  {
+    "objectID": "06_contributing/workflow.html#request-access",
+    "href": "06_contributing/workflow.html#request-access",
+    "title": "Workflow",
+    "section": "Request Access",
+    "text": "Request Access\nTo request access, you’ll need a GitHub username and to fill out this form add link"
+  },
+  {
+    "objectID": "06_contributing/workflow.html#connect-rstudio-to-github",
+    "href": "06_contributing/workflow.html#connect-rstudio-to-github",
+    "title": "Workflow",
+    "section": "Connect RStudio to GitHub",
+    "text": "Connect RStudio to GitHub\nFollow these instructions"
+  },
+  {
+    "objectID": "06_contributing/workflow.html#create-a-branch-on-github",
+    "href": "06_contributing/workflow.html#create-a-branch-on-github",
+    "title": "Workflow",
+    "section": "Create a branch on GitHub",
+    "text": "Create a branch on GitHub"
+  },
+  {
+    "objectID": "06_contributing/index.html",
+    "href": "06_contributing/index.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "The SWAMP Bioassessment Monitoring Program, Bioassessment Work Group, and Reporting Module Technical Advisory Committee (TAC) are collaborating to create this SOP.\nWe’re collaboratively making this SOP with Quarto. Quarto builds from what RStudio learned from RMarkdown, which we are using to openly develop and publish all Reporting Module documentation.\nIf you are interested in contributing to this SOP, please review the Setup and Workflow sections. ADD LINKS"
+  },
+  {
+    "objectID": "06_contributing/setup.html#install-r-and-rstudio",
+    "href": "06_contributing/setup.html#install-r-and-rstudio",
+    "title": "Setup",
+    "section": "Install R and RStudio",
+    "text": "Install R and RStudio"
+  },
+  {
+    "objectID": "06_contributing/setup.html#install-meet-quarto",
+    "href": "06_contributing/setup.html#install-meet-quarto",
+    "title": "Setup",
+    "section": "Install & Meet Quarto",
+    "text": "Install & Meet Quarto"
+  },
+  {
+    "objectID": "06_contributing/setup.html#create-a-github-account",
+    "href": "06_contributing/setup.html#create-a-github-account",
+    "title": "Setup",
+    "section": "Create a GitHub Account",
+    "text": "Create a GitHub Account"
+  },
+  {
+    "objectID": "06_contributing/setup.html#download-and-install-git",
+    "href": "06_contributing/setup.html#download-and-install-git",
+    "title": "Setup",
+    "section": "Download and Install Git",
+    "text": "Download and Install Git"
+  },
+  {
+    "objectID": "index.html#about-swamp-bioassessment-reporting-module",
+    "href": "index.html#about-swamp-bioassessment-reporting-module",
+    "title": "SWAMP Bioassessment Reporting Module SOP",
+    "section": "About SWAMP Bioassessment Reporting Module",
+    "text": "About SWAMP Bioassessment Reporting Module"
+  },
+  {
+    "objectID": "index.html#about-swamp-bioassessment-reporting-module-sop",
+    "href": "index.html#about-swamp-bioassessment-reporting-module-sop",
+    "title": "SWAMP Bioassessment Reporting Module SOP",
+    "section": "About SWAMP Bioassessment Reporting Module SOP",
+    "text": "About SWAMP Bioassessment Reporting Module SOP\n\nBuilt with Quarto\nWe’re collaboratively making this SOP with Quarto. Quarto builds from what RStudio learned from RMarkdown, which we are using to openly develop and publish all Reporting Module documentation."
+  },
+  {
+    "objectID": "index.html#citation",
+    "href": "index.html#citation",
+    "title": "SWAMP Bioassessment Reporting Module SOP",
+    "section": "Citation",
+    "text": "Citation\nPlease cite this guide as: TBD"
+  },
+  {
+    "objectID": "05_future-work.html",
+    "href": "05_future-work.html",
+    "title": "Future Work",
+    "section": "",
+    "text": "The revisions listed below are currently in development; as they are developed further and tested they will be incorporated into the live Reporting Module and descriptions will be incorporated into other sections of this SOP (as appropriate).\n\nDevelop the Reporting Module Application in R/R Shiny"
+  },
+  {
+    "objectID": "05_future-work.html#future-work",
+    "href": "05_future-work.html#future-work",
+    "title": "Future Work",
+    "section": "Future Work",
+    "text": "Future Work\nThe revisions listed below are not an immediate priority and will be considered and pursued after the rest of the Reporting Module has been developed, tested, and approved for public use (i.e., after April 2024).\n\nDevelop a parallel Reporting Module workflow for select parties to securely process non-public bioassessment data or to develop other aggregations or metrics that are outside of the scope of the publicly-accessible Reporting Module.\nConsider incorporating the following data and associated functionality within the Reporting Module:\n\nCalculate the Algal Stream Condition Index (ASCI) and associated metrics\nCalculate regional Indices of Biological Integrity (IBIs)\nCalculate Index of Physical Integrity (IPI) metrics and/or regional modified habitat metrics (e.g., North Coast Regional Water Board - Garcia River TMDL monitoring modified protocols and metrics)\nCalculate modified CSCI for intermittent streams, if/when developed for California\nVisualize some or all of the outputs (e.g., metrics) and related data (e.g., California Stream Condition Index [CSCI], ASCI, IPI scores)\nVisualize and interact with stream reference site location information\n\nSubset or filter sites as reference vs non-reference vs not yet screened by region\nConsider incorporating the ability to automatically designate a site as reference or non-reference.\nConsider including ability to view photos of reference sites\n\n\nIncorporate taxa crosswalk lists and conversions between the Southwestern Association of Freshwater Invertebrate Taxonomists (SAFIT) Standard Taxonomic Effort (STE) Level I (i.e., SAFIT I) and Level II (i.e., SAFIT II).\nAdd functionality to assist with bioassessment monitoring planning purposes (e.g., add & view actual site locations; not just target locations [i.e., geometry data currently available by select parties via the SWAMP Data Warehouse])."
+  },
+  {
+    "objectID": "02_instructions/step3-select-export-reporting-output.html",
+    "href": "02_instructions/step3-select-export-reporting-output.html",
+    "title": "Step 3: Select & Export Reporting Output",
+    "section": "",
+    "text": "It is important to note that this Data Management Plan describes the immediate and high priority reporting module needs (Steps 1-3 above). A list of revisions, additions, or improvements for future consideration are provided in the Future Work Section (ADD LINK)"
+  },
+  {
+    "objectID": "02_instructions/index.html",
+    "href": "02_instructions/index.html",
+    "title": "Instructions",
+    "section": "",
+    "text": "When the user opens the Reporting Module, datasets will be dynamically pulled from the California Open Data Portal’s application programming interface (API). The Reporting Module will then walk users through three steps described and shown below:\n\nFilter Datasets\nIn the first step, the user will define the overall scope of their needs and filter the available datasets according to the specified spatial extent, temporal extent, program or project, assemblage type, and/or collection method.\nSelect & Calculate Reporting Metrics\nIn the second step, the user will select which reporting metrics they would like the Reporting Module to calculate for them.\nSelect & Export Reporting Output\nIn third step, the user will select the format in which they would like their aggregated reporting metrics to be provided: excel file [.xlsx], comma-separated values file [.csv], or a text document that contains plain text in the form of lines [.txt]. Once selected, the user will be able to download their output as specified.\n\nMore information about each of these steps can be found in the SWAMP Bioassessment Monitoring Program Reporting Module Data Management Plan.\n\n\n\nSWAMP Bioassessment Reporting Module Data Workflow"
+  },
+  {
+    "objectID": "02_instructions/index.html#software-requirements",
+    "href": "02_instructions/index.html#software-requirements",
+    "title": "Instructions",
+    "section": "Software Requirements",
+    "text": "Software Requirements\nTBD - likely none"
+  },
+  {
+    "objectID": "02_instructions/step1-filter-datasets.html",
+    "href": "02_instructions/step1-filter-datasets.html",
+    "title": "Step 1: Filter Datasets",
+    "section": "",
+    "text": "Spatial extent - from which geographic location(s) would the user like to pull data? For example, would they like all statewide data, or would they like to filter by: ecoregion, water board region, county, or list of latitude and longitude(s) or site/Station Codes(s)?\nTemporal extent - from which time period(s) would the user like to pull data? For example, would they like a specific year or sampling season? Or a range of years or seasons?\nProgram or Project - from which bioassessment program(s) or project(s) would the user like to pull data? For example, would they like data from all statewide and regional programs, the Perennial Streams Assessment (PSA), the Reference Condition Management Program (RCMP), the Southern California Stormwater Monitoring Coalition (SMC), or something else?\nAssemblage Type - for which assemblage(s) would the user like to calculate metrics? For example: algae, benthic macroinvertebrate (BMI), and/or habitat? Collection Method - from which collection method(s) would the user like to pull data? Note that this filter is primarily used for BMI the assemblage type."
+  },
+  {
+    "objectID": "02_instructions/step2-select-calc-reporting-metrics.html",
+    "href": "02_instructions/step2-select-calc-reporting-metrics.html",
+    "title": "Step 2: Select & Calculate Reporting Metrics",
+    "section": "",
+    "text": "Base Queries (count or percents by taxon)\nAssemblage Statistics (count or percent by family, order or class [e.g., order Ephemeroptera] or functional group [e.g., Shredders])\nOther Metrics pertaining to tolerance, diversity, ecology, or life history traits"
+  }
+]
