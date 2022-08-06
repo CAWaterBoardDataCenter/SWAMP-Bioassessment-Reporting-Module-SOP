@@ -1,0 +1,27 @@
+---
+title: "Instructions"
+---
+
+## Step-by-step Instructions Outline
+
+When the user opens the Reporting Module, datasets will be dynamically pulled from the California Open Data Portal's application programming interface (API). The Reporting Module will then walk users through three steps described and shown below:
+
+1.  Filter Datasets
+
+    In the first step, the user will define the overall scope of their needs and filter the available datasets according to the specified spatial extent, temporal extent, program or project, assemblage type, and/or collection method.
+
+2.  Select & Calculate Reporting Metrics
+
+    In the second step, the user will select which reporting metrics they would like the Reporting Module to calculate for them.
+
+3.  Select & Export Reporting Output
+
+    In third step, the user will select the format in which they would like their aggregated reporting metrics to be provided: excel file \[.xlsx\], comma-separated values file \[.csv\], or a text document that contains plain text in the form of lines \[.txt\]. Once selected, the user will be able to download their output as specified.
+
+More information about each of these steps can be found in the [SWAMP Bioassessment Monitoring Program Reporting Module Data Management Plan](https://docs.google.com/document/d/1_JNdR-7H7F7in_PqYPiNlQkJFgWgWYvAU1nSbA-d4Sc/edit?usp=sharing).
+
+![SWAMP Bioassessment Reporting Module Data Workflow](images/Bioassessment_ReportingModule_Workflow.png){fig-align="left" width="60%"}
+
+## Software Requirements
+
+TBD - likely none

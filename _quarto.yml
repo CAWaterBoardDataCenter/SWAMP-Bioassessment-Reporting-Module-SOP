@@ -1,0 +1,64 @@
+project:
+  type: website
+  
+website:
+  page-navigation: true
+  title: "SWAMP Bioassessment Reporting Module SOP" 
+  site-url: https://cawaterboarddatacenter.github.io/SWAMP-Bioassessment-Reporting-Module-SOP/
+  
+  repo-url: https://github.com/CAWaterBoardDataCenter/SWAMP-Bioassessment-Reporting-Module-SOP
+  repo-actions: [edit, issue]
+  
+  page-footer: 
+    left: "SWAMP Bioassessment Monitoring Program (2022). SWAMP Bioassessment Reporting Module SOP (Version v0.0.1)."
+        
+  sidebar:   
+    logo: images/SWAMP_logo_2color.jpg
+    align: center
+    tools: 
+      - icon: globe
+        href: https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/
+        text: "SWAMP Bioassessment Monitoring Program"
+      - icon: github
+        href: https://github.com/CAWaterBoardDataCenter/SWAMP-Bioassessment-Reporting-Module-SOP
+        text: "SWAMP Bioassessment Reporting Module SOP GitHub"
+
+  
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - text: "Welcome"
+        href: index.qmd
+      - 01_introduction.qmd
+      - section: 02_instructions/index.qmd
+        contents:
+          - 02_instructions/step1-filter-datasets.qmd
+          - 02_instructions/step2-select-calc-reporting-metrics.qmd
+          - 02_instructions/step3-select-export-reporting-output.qmd
+      - section: 03_interpretation/index.qmd
+        contents:
+          - 03_interpretation/interpretation.qmd
+          - 03_interpretation/use-cases-current.qmd
+          - 03_interpretation/use-cases-potential.qmd
+      - 04_resources.qmd
+      - 05_future-work.qmd
+      - section: 06_contributing/index.qmd
+        contents:
+          - 06_contributing/setup.qmd
+          - 06_contributing/workflow.qmd
+          
+        
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    code-background: true
+    code-copy: true
+    css: styles.css
+    toc: true 
+    
+filters:
+  - include-files.lua
+  - quarto    

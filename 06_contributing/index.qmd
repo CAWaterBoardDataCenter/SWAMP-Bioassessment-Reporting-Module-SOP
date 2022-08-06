@@ -1,0 +1,11 @@
+---
+title: "Contributing"
+---
+
+## How we Work
+
+The SWAMP Bioassessment Monitoring Program, Bioassessment Work Group, and Reporting Module Technical Advisory Committee (TAC) are collaborating to create this SOP. 
+
+We're collaboratively making this SOP with [Quarto](https://quarto.org). Quarto builds from what RStudio learned from [RMarkdown](https://rmarkdown.rstudio.com/), which we are using to openly develop and publish all Reporting Module documentation.
+
+If you are interested in contributing to this SOP, please review the Setup and Workflow sections. **ADD LINKS**

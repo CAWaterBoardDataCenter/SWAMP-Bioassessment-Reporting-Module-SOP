@@ -1,0 +1,7 @@
+---
+title: "Step 3: Select & Export Reporting Output"
+---
+
+In third step, the user will select the format in which they would like their aggregated reporting metrics to be provided: excel file [.xlsx], comma-separated values file [.csv], or a text document that contains plain text in the form of lines [.txt]. Once selected, the user will be able to download their output as specified.
+
+It is important to note that this Data Management Plan describes the immediate and high priority reporting module needs (Steps 1-3 above). A list of revisions, additions, or improvements for future consideration are provided in the Future Work Section (**ADD LINK**)

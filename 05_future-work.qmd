@@ -1,0 +1,39 @@
+---
+title: "Future Work"
+---
+
+## In Development
+
+The revisions listed below are currently in development; as they are developed further and tested they will be incorporated into the live Reporting Module and descriptions will be incorporated into other sections of this SOP (as appropriate).
+
+-   Develop the Reporting Module Application in R/R Shiny
+
+## Future Work
+
+The revisions listed below are not an immediate priority and will be considered and pursued after the rest of the Reporting Module has been developed, tested, and approved for public use (i.e., after April 2024).
+
+-   Develop a parallel Reporting Module workflow for select parties to securely process non-public bioassessment data or to develop other aggregations or metrics that are outside of the scope of the publicly-accessible Reporting Module.
+
+-   Consider incorporating the following data and associated functionality within the Reporting Module:
+
+    -   Calculate the Algal Stream Condition Index (ASCI) and associated metrics
+
+    -   Calculate regional Indices of Biological Integrity (IBIs)
+
+    -   Calculate Index of Physical Integrity (IPI) metrics and/or regional modified habitat metrics (e.g., North Coast Regional Water Board - Garcia River TMDL monitoring modified protocols and metrics)
+
+    -   Calculate modified CSCI for intermittent streams, if/when developed for California
+
+    -   Visualize some or all of the outputs (e.g., metrics) and related data (e.g., California Stream Condition Index \[CSCI\], ASCI, IPI scores)
+
+    -   Visualize and interact with stream reference site location information
+
+        -   Subset or filter sites as reference vs non-reference vs not yet screened by region
+
+        -   Consider incorporating the ability to automatically designate a site as reference or non-reference.
+
+        -   Consider including ability to view photos of reference sites
+
+-   Incorporate taxa crosswalk lists and conversions between the Southwestern Association of Freshwater Invertebrate Taxonomists (SAFIT) Standard Taxonomic Effort (STE) Level I (i.e., SAFIT I) and Level II (i.e., SAFIT II).
+
+-   Add functionality to assist with bioassessment monitoring planning purposes (e.g., add & view actual site locations; not just target locations \[i.e., geometry data currently available by select parties via the SWAMP Data Warehouse\]).
